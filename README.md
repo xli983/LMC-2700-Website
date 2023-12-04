@@ -1,1 +1,2 @@
-# LMC-2700-Website
+# myPortfolioWebsite
+LMC 2700 Portfolio Website
